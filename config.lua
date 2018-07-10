@@ -17,17 +17,17 @@ useFragHandler = true
 redSkullLength = 30 * 24 * 60 * 60 * 1000
 blackSkullLength = 45 * 24 * 60 * 60 * 1000
 dailyFragsToRedSkull = 3
-weeklyFragsToRedSkull = 10 
-monthlyFragsToRedSkull = 40
-dailyFragsToBlackSkull = 10 
-weeklyFragsToBlackSkull = 20 
-monthlyFragsToBlackSkull = 90 
+weeklyFragsToRedSkull = 5 
+monthlyFragsToRedSkull = 10
+dailyFragsToBlackSkull = 9 
+weeklyFragsToBlackSkull = 15 
+monthlyFragsToBlackSkull = 30 
 dailyFragsToBanishment = 100 
 weeklyFragsToBanishment = 300 
 monthlyFragsToBanishment = 1200 
 blackSkulledDeathHealth = 40 
 blackSkulledDeathMana = 0 
-useBlackSkull = true 
+useBlackSkull = false 
 advancedFragList = true
 
 -- Banishments 
@@ -74,7 +74,7 @@ fistBaseAttack = 7
 
 -- Connection config 
 worldId = 0 
-ip = "131.161.5.228" 
+ip = "131.161.5.96" 
 loginPort = 7171 
 gamePort = 7172 
 loginTries = 10 
