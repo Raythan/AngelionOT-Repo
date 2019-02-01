@@ -74,7 +74,7 @@ fistBaseAttack = 7
 
 -- Connection config 
 worldId = 0 
-ip = "131.161.5.96" 
+ip = "179.234.52.103" 
 loginPort = 7171 
 gamePort = 7172 
 loginTries = 10 
